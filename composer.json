@@ -29,7 +29,7 @@
     "ext-curl": "*",
     "ext-openssl": "*",
     "paragonie/random_compat": "~1.4|~2.0",
-    "mdanter/ecc": "~0.3",
+    "mdanter/ecc": "*",
     "pleonasm/merkle-tree": "1.0.0",
     "rych/hash_pbkdf2-compat": "~1.0",
     "lastguest/murmurhash": "~1.1",
